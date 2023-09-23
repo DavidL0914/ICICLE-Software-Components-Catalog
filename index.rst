@@ -12,4 +12,4 @@ Release 2023-06
    :maxdepth: 1
    :caption: Contents:
 
-   /2024_06_release/ICICLE_Foodshed_Parser
+   /2024_06_release/ICICLE_Foodshed_Parser.md
