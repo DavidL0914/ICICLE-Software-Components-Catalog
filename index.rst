@@ -7,7 +7,7 @@ Welcome to ICICLE Software Component Catalog's documentation!
 =============================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    /tapis-deployer/README.md
