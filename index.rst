@@ -9,7 +9,7 @@ Welcome to ICICLE Software Component Catalog's documentation!
 Release 2023-06
 ===============
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Contents:
 
    /tapis-deployer/README.md
