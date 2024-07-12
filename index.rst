@@ -12,11 +12,5 @@ Release 2023-06
    :maxdepth: 2
    :caption: Contents:
 
-   /tapis-deployer/README.md
-   /PPOD_CA/README.md
-   /camera-traps/README.md
-   /event-engine/README.md
-   /hello_icicle_auth_clients/README.md
-   /harp/README.md
-   /CI-Components-Catalog/README.md
-   /ICICLE_Foodshed_Parser/README.md
+   /expanse-101-refactor
+   /notebook-101-dev/README.md
