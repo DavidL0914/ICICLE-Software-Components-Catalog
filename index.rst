@@ -1,10 +1,19 @@
-.. ICICLE Software Component Catalog documentation master file, created by
-   sphinx-quickstart on Mon Aug  7 09:50:04 2023.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+===========================================================
+SDSC HPC Training for Advanced Computing Users. -- DEV SITE
+===========================================================
 
-Welcome to ICICLE Software Component Catalog's documentation!
-=============================================================
+This GitHub repo will provide materials to support SDSC training classes and workshops.
+======================================================================================
+
+These events will introduce new and current users to the high performance computing, data, and
+visualization resources available at SDSC and provide the programming skills necessary to use SDSC
+resources effectively and efficiently. Workshops offer experienced users more in-depth instruction,
+including hands-on assistance with their own codes and collaborative discussions with other
+users and parallel computing experts. 
+
+
+## This GitHub repo provides materials to support SDSC training classes and workshops. To learn more about SDSC HPC training programs and events, see: https://www.sdsc.edu/education_and_training/training.html
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Release 2023-06
 ===============
