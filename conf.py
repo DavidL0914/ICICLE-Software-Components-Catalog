@@ -37,6 +37,13 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['templates']
 
+myst_enable_extensions = [
+    "deflist",
+    "colon_fence",
+]
+
+myst_heading_anchors = 3  # Controls which headers get anchors, change as needed
+
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
