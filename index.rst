@@ -29,3 +29,5 @@ Release 2023-06
    /harp/README.md
    /CI-Components-Catalog/README.md
    /ICICLE_Foodshed_Parser/README.md
+   /expanse-101-refactor
+   /notebooks-101-dev/README.md
