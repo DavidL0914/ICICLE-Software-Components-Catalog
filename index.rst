@@ -28,5 +28,21 @@ Release 2023-06
    /harp/README.md
    /CI-Components-Catalog/README.md
    /ICICLE_Foodshed_Parser/README.md
-   /expanse-101-refactor
    /notebooks-101-dev/README.md
+
+Expanse Tutorial
+================
+.. toctree::
+   :maxdepth: 2
+   :caption: Expanse Tutorial:
+
+   /expanse-101-refactor/Overview.md
+   /expanse-101-refactor/GettingStarted.md
+   /expanse-101-refactor/README.md
+   /expanse-101-refactor/Accounts.md
+   /expanse-101-refactor/JobCharging.md
+   /expanse-101-refactor/Compiling.md
+   /expanse-101-refactor/RunningJobs/CPUJobs.md
+   /expanse-101-refactor/RunningJobs/GPUJobs.md
+   /expanse-101-refactor/RunningJobs/README.md
+   /expanse-101-refactor/Data_and_Storage.md
