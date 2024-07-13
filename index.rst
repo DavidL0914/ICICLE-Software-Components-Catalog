@@ -12,7 +12,7 @@ including hands-on assistance with their own codes and collaborative discussions
 users and parallel computing experts. 
 
 
-## This GitHub repo provides materials to support SDSC training classes and workshops. To learn more about SDSC HPC training programs and events, see: https://www.sdsc.edu/education_and_training/training.html
+This GitHub repo provides materials to support SDSC training classes and workshops. To learn more about SDSC HPC training programs and events, see: https://www.sdsc.edu/education_and_training/training.html
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Release 2023-06
@@ -21,5 +21,11 @@ Release 2023-06
    :maxdepth: 2
    :caption: Contents:
 
-   /expanse-101-refactor
-   /notebook-101-dev/README.md
+   /tapis-deployer/README.md
+   /PPOD_CA/README.md
+   /camera-traps/README.md
+   /event-engine/README.md
+   /hello_icicle_auth_clients/README.md
+   /harp/README.md
+   /CI-Components-Catalog/README.md
+   /ICICLE_Foodshed_Parser/README.md
