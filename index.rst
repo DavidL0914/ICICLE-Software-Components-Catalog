@@ -25,7 +25,6 @@ Release 2023-06
    /PPOD_CA/README.md
    /camera-traps/README.md
    /event-engine/README.md
-   /hello_icicle_auth_clients/README.md
    /harp/README.md
    /CI-Components-Catalog/README.md
    /ICICLE_Foodshed_Parser/README.md
